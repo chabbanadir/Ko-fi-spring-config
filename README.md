@@ -1,1 +1,0 @@
-"# Ko-fi-spring-config" 
